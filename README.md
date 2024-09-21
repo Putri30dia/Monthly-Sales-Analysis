@@ -1,6 +1,8 @@
-# Sales Dashboard Analysis
+# Monthly Sales Report
 
 This project showcases a comprehensive sales dashboard created using Excel to visualize and analyze key performance metrics from a dataset. The goal of this project is to evaluate sales performance based on various metrics, providing valuable insights for decision-making.
+
+![Sales Dashboard](https://github.com/Putri30dia/Portofolio_Putri/blob/main/Sales%20Dashboard.png)
 
 ## Project Overview
 The dashboard provides a detailed analysis of sales data over a specified time period. It includes key metrics such as total revenue, units sold, NMV (Net Merchandise Value), sales trends by hour, and product performance. 
